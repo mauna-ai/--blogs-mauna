@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Mauna NLI Framework for CUI
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mauna is a next-gen ramework for building applications that have conversational aware interfaces. Our USP is make life easy fot the developers to build such applications. Some of the important features are:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Knowledge of Machine Learning, Artificial intelligence is **NOT** required
+- Data set for Training the AI model **NOT** required
+- Costly computing resources to train the model are **NOT** required
+- **No** time consuming debugging.
+- Build Web, Mobile and CLI apps using the same framework
 
-What else do you need?
+and many more features to create a state of the art applications.
 
-### My story
+### Mauna Vision
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+ Just watch this [Video](https://drive.google.com/file/d/1WEjXQDVERe5LKjlIYZr7VrL18719d-x2/view) to understand Our Vision.
