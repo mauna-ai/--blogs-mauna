@@ -17,7 +17,7 @@ author: Vijay Khanna
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "blog/aboutme"
+  About Me: "https://blog.mauna.ai/blog/aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
