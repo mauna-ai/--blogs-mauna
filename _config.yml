@@ -5,7 +5,8 @@
 
 # --- Required options --- #
 
-url: blogs-mauna.git.io
+url: "https://username.github.io"
+baseurl: ""
 
 # Name of website
 title: Mauna Blogs
